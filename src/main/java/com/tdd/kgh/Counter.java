@@ -1,4 +1,4 @@
-package com.in28minutes.jee;
+package com.tdd.kgh;
 
 public class Counter {
 	public int orders;

@@ -1,4 +1,4 @@
-package com.in28minutes.jee;
+package com.tdd.kgh;
 //in28Minutes-springmvc
 import java.io.IOException;
 
